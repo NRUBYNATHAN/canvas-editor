@@ -1,0 +1,29 @@
+.home_head{
+    color: blueviolet;
+}
+.home_btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.home{
+    border: 3px solid black;
+    box-shadow: 15px 0 10px 0 rgb(85, 85, 85);
+    margin-top: 50px;
+    display: flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    background-color: rgb(204, 203, 203);
+    width:600px;
+    padding: 20px;
+    border-radius: 20px;
+    height: 400px;
+}
+.ho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
